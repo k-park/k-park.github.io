@@ -2,6 +2,10 @@
 
 * [👋 Hi 👋](README.md)
 
+## Downloads
+
+* [Downloads](downloads.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
